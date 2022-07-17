@@ -1,0 +1,8 @@
+.body {
+    height: 84vh;
+    background-color: rgb(236, 214, 218);
+}
+
+.body h2,p {
+    margin-left: 15px;
+}
