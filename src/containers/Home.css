@@ -1,0 +1,20 @@
+
+
+.bg-pink {
+    background-color: rgb(236, 214, 218);
+    height: 84vh;
+}
+
+.bg-blue{
+    background-color: rgb(167, 195, 238);
+    height: 84vh;
+}
+
+
+.bg-blue h2,p {
+    margin-left: 15px;
+}
+
+.bg-pink h2,p {
+    margin-left: 15px;
+}

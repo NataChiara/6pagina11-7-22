@@ -1,8 +1,12 @@
-.body {
-    height: 84vh;
+
+
+.bg-pink {
     background-color: rgb(236, 214, 218);
+    height: 84vh;
 }
 
-.body h2,p {
+
+
+.bg-pink h2,p {
     margin-left: 15px;
 }
